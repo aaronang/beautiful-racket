@@ -1,2 +1,3 @@
-# beautiful-racket
-Code from “Beautiful Racket” by Matthew Butterick 📖
+# Beautiful Racket
+
+Code written while reading [“Beautiful Racket” by Matthew Butterick](https://beautifulracket.com/) 📖
